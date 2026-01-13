@@ -57,7 +57,7 @@ A Python client for querying MongoDB using natural language through Claude AI an
    Edit `.env` and add your Anthropic API key:
    ```env
    ANTHROPIC_API_KEY=your-api-key-here
-   MDB_MCP_CONNECTION_STRING=mongodb+srv://<admin>:<password>>@demo-pov.uyvwx.mongodb.net/
+   MDB_MCP_CONNECTION_STRING=mongodb+srv://<admin>:<password>>@clustername.mongodb.net/
    ```
 
 ## Quick Start
